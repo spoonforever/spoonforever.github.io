@@ -11,7 +11,7 @@ class OrderForm {
         this.patronymicInput = document.querySelector('#patronymic');
         this.phoneInput = document.querySelector('#phone');
         this.postDepartmentNumberInput = document.querySelector('#post-department-number');
-        this.addOrderUrl = 'https://script.google.com/macros/s/AKfycbyQ777mRNRAqjFVlhWz2vn0yD54GEBJxm809fqO6Jp_V4-xytjEwZCvy7xjDVE9ByyT/exec?order=';
+        this.addOrderUrl = 'https://script.google.com/macros/s/AKfycbyM0cOO8Jx2BTM_8fH0DvFawIgNIehR8dOhNUnI7nWxmg2a33CkPQBggkvtxAKmepir/exec?order=';
         this.method = 'GET';
         this.purchaseBag = purchaseBag;
     }
